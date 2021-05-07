@@ -4,7 +4,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hmelenok&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hmelenok&show_icons=true&theme=gotham" alt="hmelenok stats" />
 
 
 <!--
